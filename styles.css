@@ -232,14 +232,6 @@ i{
     section {
         margin:0px 30px;
     }
-    .cards2{
-        display: flex;
-        justify-content: space-between;
-        gap: 0px;
-    }
-    .card2{
-        width: 40%;
-    }
 }
 @media (max-width:783px){
     section {

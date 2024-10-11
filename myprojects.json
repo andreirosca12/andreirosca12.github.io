@@ -5,9 +5,9 @@
         "url":"logo_1.png"
     },
     {
-        "titlu":"Coming Soon page",
-        "descriere":"Un proiect interesant",
-        "url":"logo_1.png"
+        "titlu": "Coming Soon page",
+        "descriere": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, exercitationem! Quis animi consequatur reiciendis eligendi illum vel quaerat, asperiores aperiam consectetur quos odio at illo laborum atque dolorum dolorem doloribus.",
+        "logo_url": "logo_1.png"
     },
     {
         "titlu":"Gridbox vs Flexbox",
