@@ -1,17 +1,27 @@
 [
     {
         "titlu":"Football team website",
-        "descriere":"Un proiect interesant",
-        "url":"logo_1.png"
+        "descriere":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita officia cum nihil consequatur porro animi quis aspernatur aut ducimus quo.",
+        "url":"site_football.png"
     },
     {
         "titlu": "Coming Soon page",
         "descriere": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, exercitationem! Quis animi consequatur reiciendis eligendi illum vel quaerat, asperiores aperiam consectetur quos odio at illo laborum atque dolorum dolorem doloribus.",
-        "logo_url": "logo_1.png"
+        "logo_url": "coming_soon.png"
     },
     {
         "titlu":"Gridbox vs Flexbox",
-        "descriere":"Un proiect interesant",
-        "url":"logo_1.png"
+        "descriere":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita officia cum nihil consequatur porro animi quis aspernatur aut ducimus quo.",
+        "url":"grid_flex.png"
+    },
+    {
+        "titlu":"Who pays?",
+        "descriere":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita officia cum nihil consequatur porro animi quis aspernatur aut ducimus quo.",
+        "url":"random_org.png"
+    },
+    {
+        "titlu":"Money Exchange",
+        "descriere":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita officia cum nihil consequatur porro animi quis aspernatur aut ducimus quo.",
+        "url":"convertor.png"
     }
 ]
