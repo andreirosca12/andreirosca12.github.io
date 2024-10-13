@@ -1,6 +1,6 @@
 let projects;
 let cards2=document.querySelector(".cards2");
-fetch("https://andreirosca12.github.io/portofolio/myprojects.json")
+fetch("https://andreirosca12.github.io/myprojects.json")
     .then(r=>r.json())
     .then(json=>{
         console.log(json);
