@@ -3,42 +3,42 @@
         "titlu":"Football team website",
         "descriere":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita officia cum nihil consequatur porro animi quis aspernatur aut ducimus quo.",
         "url":"site_football.png",
-        "demo":"andreirosca12.github.io/site_echipa_fotbal",
+        "demo":"https://andreirosca12.github.io/site_echipa_fotbal",
         "source":"https://github.com/andreirosca12/site_echipa_fotbal"
     },
     {
         "titlu": "Coming Soon page",
         "descriere":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita officia cum nihil consequatur porro animi quis aspernatur aut ducimus quo.",
         "url": "coming_soon.png",
-        "demo":"andreirosca12.github.io/coming_soon",
+        "demo":"https://andreirosca12.github.io/coming_soon",
         "source":"https://github.com/andreirosca12/coming_soon"
     },
     {
         "titlu":"Gridbox vs Flexbox",
         "descriere":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita officia cum nihil consequatur porro animi quis aspernatur aut ducimus quo.",
         "url":"grid_flex.png",
-        "demo":"andreirosca12.github.io/grid_vs_flex",
+        "demo":"https://andreirosca12.github.io/grid_vs_flex",
         "source":"https://github.com/andreirosca12/grid_vs_flex/flex.html"
     },
     {
         "titlu":"Who pays?",
         "descriere":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita officia cum nihil consequatur porro animi quis aspernatur aut ducimus quo.",
         "url":"random_org.png",
-        "demo":"andreirosca12.github.io/random_org",
+        "demo":"https://andreirosca12.github.io/random_org",
         "source":"https://github.com/andreirosca12/random_org"
     },
     {
         "titlu":"Money Exchange",
         "descriere":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita officia cum nihil consequatur porro animi quis aspernatur aut ducimus quo.",
         "url":"convertor.png",
-        "demo":"andreirosca12.github.io/convertor_valutar",
+        "demo":"https://andreirosca12.github.io/convertor_valutar",
         "source":"https://github.com/andreirosca12/convertor_valutar"
     },
     {
         "titlu":"Tips Calculator",
         "descriere":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita officia cum nihil consequatur porro animi quis aspernatur aut ducimus quo.",
         "url":"tips_app.png",
-        "demo":"andreirosca12.github.io/tips_app",
+        "demo":"https://andreirosca12.github.io/tips_app",
         "source":"https://github.com/andreirosca12/tips_app"
     }
 ]
