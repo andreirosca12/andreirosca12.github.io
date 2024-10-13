@@ -17,8 +17,8 @@
         "titlu":"Gridbox vs Flexbox",
         "descriere":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita officia cum nihil consequatur porro animi quis aspernatur aut ducimus quo.",
         "url":"grid_flex.png",
-        "demo":"https://andreirosca12.github.io/grid_vs_flex",
-        "source":"https://github.com/andreirosca12/grid_vs_flex/flex.html"
+        "demo":"https://andreirosca12.github.io/grid_vs_flex/flex.html",
+        "source":"https://github.com/andreirosca12/grid_vs_flex"
     },
     {
         "titlu":"Who pays?",
