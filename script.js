@@ -12,8 +12,8 @@ fetch("https://andreirosca12.github.io/myprojects.json")
                             <h3>${project.titlu}</h3>
                             <p>${project.descriere}</p>
                             <div class="buttons">
-                                <a class="b1" href="${project.demo}">Github</a>
-                                <a class="b2" href="${project.source}">Demo</a>
+                                <a class="b1" href="${project.source}">Github</a>
+                                <a class="b2" href="${project.demo}">Demo</a>
                             </div>
                         </div>   
             `;
